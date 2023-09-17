@@ -1,0 +1,14 @@
+{
+  "name": "gatesconnectback",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:ehgarcia/gatesConnect_back.git",
+  "author": "Ezequiel <ehgarcia@outlook.com.ar>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon index"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
